@@ -1,4 +1,6 @@
 # traffic_finder
+
+[![Join the chat at https://gitter.im/traffic-finder/Lobby](https://badges.gitter.im/traffic-finder/Lobby.svg)](https://gitter.im/traffic-finder/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Traffic Finder is a information which helps us to save and inform all around the world of traffic.
 
 It also provides different ways from where traffic are not or changes the route where time and traffic are not.
